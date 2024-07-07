@@ -1,0 +1,63 @@
+Diálogo simple y natural
+ ○ Forma en que la interacción con el usuario debe llevarse a cabo.
+ ■ Debe ser correcta, sin errores de tipeo.
+ ■ Distribución adecuada de la información.
+ ■ etc.
+ 2. Lenguaje del usuario
+ ○ Emplear en el sistema un lenguaje familiar para el usuario, usar el lenguaje 
+del usuario.
+ ■ No usar palabras técnicas o extranjeras.
+ ■ Diseñar correctamente las entradas de datos.
+ ■ Emplear un grado adecuado de información.
+ 3. Minimizar el uso de la memoria del usuario
+ ○ Evitar que el usuario esfuerce su memoria para interactuar con el sistema. 
+■ Brindar información de contexto.
+ ■ Brindar información de la navegación y sesión actual.
+ 4. Consistencia
+ ○ Que no existan ambigüedades en el aspecto visual ni tecnológico en el 
+diálogo o en el comportamiento del sistema. 
+■ La consistencia es un punto clave para ofrecer confiabilidad y 
+seguridad al sistema.
+ ■ Debe existir una consistencia terminológica y visual.
+ 5. Feedback
+ ○ Es una respuesta gráfica o textual en la pantalla,  frente a una acción del 
+usuario. El sistema debe mantener al usuario informado de lo que está 
+sucediendo.
+ ■ Brindar información de los estados de los procesos.
+ ■ Brindar información del estado del sistema y del usuario.
+ ■ Utilización  de mensajes de aclaración, validaciones, confirmación y 
+cierre.
+ 6. Salidas evidentes
+ 51
+○ Que el usuario tenga a su alcance de forma identificable y accesible una 
+opción de salida.
+ ■ Visualización de Opciones de Cancelación, Salidas, de Suspender, de 
+Deshacer y Modificación.
+ ■ Brindar salidas de cada pantalla.
+ 7. Mensajes de error
+ ○ Información que brinda el sistema ante la presencia de un error. De qué forma 
+se ayuda al sistema para que salga de la situación en la que se encuentra.
+ ■ Deben existir mensajes de error para ser usados en los momentos que 
+corresponda.
+ ■ Brindar información del error, explicar el error y dar alternativas a 
+seguir.
+ 8. Prevención de errores
+ ○ Evitar que el usuario llegue a una instancia de error.
+ ■ Usar rangos de valores para evitar entradas no válidas.
+ ■ Dar flexibilidad en las entradas de los usuarios.
+ 9. Atajos
+ ○ La interfaz debería proveer de alternativas de manejo para que resulte 
+cómodo y amigable tanto para usuarios novatos como para usuarios 
+experimentados.
+ ■ Brindar mecanismos alternativos para acelerar la interacción con el 
+sistema.
+ ■ Brindar la posibilidad de reorganizar barras de herramientas, menús, 
+de acuerdo a la necesidad del usuario.
+ ■ Brindar mecanismos de Macros, atajos, definición de teclas de 
+función.
+ 10. Ayudas
+ ○ Componentes de asistencia para el usuario. Un mal diseño de las ayudas 
+puede llegar a entorpecer y dificultar la usabilidad.
+ ■ Deben existir las ayudas.
+ ■ Se deben brindar diferentes tipos de ayuda : generales, contextuales, 
+específicas, en línea.
